@@ -41,5 +41,5 @@
 
 <h3 align="center">Other</h3>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=linux,bash,latex,arduino" />
+    <img src="https://skillicons.dev/icons?i=linux,bash,qt,latex,arduino" />
 </div>
