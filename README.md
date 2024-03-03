@@ -21,3 +21,25 @@
         <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
     </a>
 </div>
+
+<h2 align="center">🛠️ Skills</h2>
+
+<h3 align="center">Programming Languages</h3>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,fortran,r" />
+</div>
+
+<h3 align="center">Machine Learning & Data Science Tools</h3>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+</div>
+
+<h3 align="center">Development Tools & Environments</h3>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=githubactions,docker,git,cmake" />
+</div>
+
+<h3 align="center">Other</h3>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=linux,bash,latex,arduino" />
+</div>
