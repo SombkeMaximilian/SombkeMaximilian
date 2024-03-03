@@ -8,11 +8,9 @@
 
 <div align="center">
 
-    🔭 I'm currently working on a <strong><a href="https://github.com/SombkeMaximilian/MatCal">matrix calculator</a></strong>
+📚 I'm currently learning **Qt, Docker, OpenGL, PyTorch**
 
-    📚 I'm currently learning <strong>Qt, Docker, OpenGL, PyTorch</strong>
-
-    ❔ Ask me about <strong>anything <a href="https://github.com/SombkeMaximilian/SombkeMaximilian/issues">here</a></strong>
+❔ Ask me about **anything [here](https://github.com/SombkeMaximilian/SombkeMaximilian/issue)**
 
 </div>
 
