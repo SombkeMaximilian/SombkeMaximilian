@@ -20,6 +20,8 @@
     </a>
 </div>
 
+<hr/>
+
 <h2 align="center">🛠️ Skills</h2>
 
 <h3 align="center">Programming Languages</h3>
