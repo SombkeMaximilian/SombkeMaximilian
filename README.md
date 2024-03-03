@@ -5,3 +5,19 @@
 </h1>
 
 <h3 align="center">A CS student from Germany</h3>
+
+<div align="center">
+
+    🔭 I'm currently working on a **[matrix calculator](https://github.com/SombkeMaximilian/MatCal)**
+
+    📚 I'm currently learning Qt, Docker, OpenGL, PyTorch
+
+    ❔ Ask me about **anything [here](https://github.com/SombkeMaximilian/SombkeMaximilian/issue)**
+
+</div>
+
+<div align="center">
+    <a href="mailto:sombke.maximilian@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+    </a>
+</div>
