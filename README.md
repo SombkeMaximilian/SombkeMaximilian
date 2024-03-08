@@ -10,8 +10,6 @@
 
 📚 I'm currently learning **Qt, Docker, OpenGL, PyTorch, TensorFlow**
 
-❔ Ask me about **anything [here](https://github.com/SombkeMaximilian/SombkeMaximilian/issue)**
-
 </div>
 
 <div align="center">
