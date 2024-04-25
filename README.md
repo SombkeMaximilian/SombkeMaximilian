@@ -24,7 +24,7 @@
 
 <h3 align="center">Programming Languages</h3>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,fortran,rust" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,rust,python,fortran" />
 </div>
 
 <h3 align="center">Machine Learning & Data Science Tools</h3>
