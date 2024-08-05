@@ -8,7 +8,7 @@
 
 <div align="center">
 
-📚 I'm currently learning **Qt, Docker, OpenGL, PyTorch, TensorFlow**
+📚 I'm currently learning **R**
 
 </div>
 
