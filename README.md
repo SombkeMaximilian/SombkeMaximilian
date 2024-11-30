@@ -8,7 +8,7 @@
 
 <div align="center">
 
-📚 I'm currently learning **Pyo3**
+📚 I'm currently learning **PyO3**
 
 </div>
 
