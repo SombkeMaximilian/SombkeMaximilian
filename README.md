@@ -8,7 +8,7 @@
 
 <div align="center">
 
-📚 I'm currently learning **PyO3**
+📚 I'm currently working on a Rust library for 1D NMR tools.
 
 </div>
 
